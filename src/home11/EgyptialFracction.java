@@ -1,3 +1,6 @@
+/*
+QUESTION:http://www.geeksforgeeks.org/greedy-algorithm-egyptian-fraction/
+*/
 package home11;
 
 public class EgyptialFracction {
