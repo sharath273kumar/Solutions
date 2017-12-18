@@ -1,2 +1,2 @@
 # Solutions
-Flabbergasting problems
+Solutions of some good algorithms
